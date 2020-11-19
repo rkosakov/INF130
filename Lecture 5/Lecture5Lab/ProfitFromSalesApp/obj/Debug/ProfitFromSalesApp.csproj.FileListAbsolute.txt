@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\ProfitFromSalesApp\obj\Debug\ProfitFromSalesApp.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\ProfitFromSalesApp\obj\Debug\ProfitFromSalesApp.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\ProfitFromSalesApp\bin\Debug\ProfitFromSalesApp.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\ProfitFromSalesApp\bin\Debug\ProfitFromSalesApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\ProfitFromSalesApp\bin\Debug\ProfitFromSalesApp.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\ProfitFromSalesApp\obj\Debug\ProfitFromSalesApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\ProfitFromSalesApp\obj\Debug\ProfitFromSalesApp.pdb

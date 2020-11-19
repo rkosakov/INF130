@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\FigureApp\bin\Debug\FigureApp.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\FigureApp\bin\Debug\FigureApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\FigureApp\bin\Debug\FigureApp.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\FigureApp\obj\Debug\FigureApp.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\FigureApp\obj\Debug\FigureApp.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\FigureApp\obj\Debug\FigureApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\FigureApp\obj\Debug\FigureApp.pdb

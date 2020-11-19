@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Listing\bin\Debug\Listing.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Listing\bin\Debug\Listing.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Listing\bin\Debug\Listing.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Listing\obj\Debug\Listing.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Listing\obj\Debug\Listing.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Listing\obj\Debug\Listing.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Listing\obj\Debug\Listing.pdb

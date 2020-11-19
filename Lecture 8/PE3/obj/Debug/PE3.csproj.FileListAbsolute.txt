@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\PE3\bin\Debug\PE3.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\PE3\bin\Debug\PE3.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\PE3\bin\Debug\PE3.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\PE3\obj\Debug\PE3.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\PE3\obj\Debug\PE3.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\PE3\obj\Debug\PE3.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\PE3\obj\Debug\PE3.pdb

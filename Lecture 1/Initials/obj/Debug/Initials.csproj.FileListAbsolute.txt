@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Initials\bin\Debug\Initials.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Initials\bin\Debug\Initials.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Initials\bin\Debug\Initials.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Initials\obj\Debug\Initials.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Initials\obj\Debug\Initials.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Initials\obj\Debug\Initials.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Initials\obj\Debug\Initials.pdb

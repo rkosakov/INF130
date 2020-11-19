@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7\AverageDif\bin\Debug\AverageDif.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7\AverageDif\bin\Debug\AverageDif.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7\AverageDif\bin\Debug\AverageDif.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7\AverageDif\obj\Debug\AverageDif.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7\AverageDif\obj\Debug\AverageDif.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7\AverageDif\obj\Debug\AverageDif.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7\AverageDif\obj\Debug\AverageDif.pdb

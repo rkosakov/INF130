@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7\StaticMethod\bin\Debug\StaticMethod.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7\StaticMethod\bin\Debug\StaticMethod.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7\StaticMethod\bin\Debug\StaticMethod.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7\StaticMethod\obj\Debug\StaticMethod.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7\StaticMethod\obj\Debug\StaticMethod.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7\StaticMethod\obj\Debug\StaticMethod.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7\StaticMethod\obj\Debug\StaticMethod.pdb

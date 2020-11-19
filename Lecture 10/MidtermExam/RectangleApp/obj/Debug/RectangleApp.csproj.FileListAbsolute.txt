@@ -1,0 +1,6 @@
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\MidtermExam\RectangleApp\bin\Debug\RectangleApp.exe.config
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\MidtermExam\RectangleApp\bin\Debug\RectangleApp.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\MidtermExam\RectangleApp\bin\Debug\RectangleApp.pdb
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\MidtermExam\RectangleApp\obj\Debug\RectangleApp.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\MidtermExam\RectangleApp\obj\Debug\RectangleApp.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\MidtermExam\RectangleApp\obj\Debug\RectangleApp.pdb

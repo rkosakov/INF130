@@ -1,0 +1,15 @@
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\Lecture10\PresentationGUI\bin\Debug\PresentationGUI.exe.config
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\Lecture10\PresentationGUI\bin\Debug\PresentationGUI.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\Lecture10\PresentationGUI\bin\Debug\PresentationGUI.pdb
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\Lecture10\PresentationGUI\obj\Debug\PresentationGUI.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\Lecture10\PresentationGUI\obj\Debug\PresentationGUI.Form1.resources
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\Lecture10\PresentationGUI\obj\Debug\PresentationGUI.Properties.Resources.resources
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\Lecture10\PresentationGUI\obj\Debug\PresentationGUI.csproj.GenerateResource.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\Lecture10\PresentationGUI\obj\Debug\PresentationGUI.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\Lecture10\PresentationGUI\obj\Debug\PresentationGUI.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\Lecture10\PresentationGUI\obj\Debug\PresentationGUI.pdb
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\Lecture10\PresentationGUI\bin\Debug\Person.dll
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\Lecture10\PresentationGUI\bin\Debug\Student.dll
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\Lecture10\PresentationGUI\bin\Debug\Person.pdb
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\Lecture10\PresentationGUI\bin\Debug\Student.pdb
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\Lecture10\PresentationGUI\obj\Debug\PresentationGUI.csproj.CopyComplete

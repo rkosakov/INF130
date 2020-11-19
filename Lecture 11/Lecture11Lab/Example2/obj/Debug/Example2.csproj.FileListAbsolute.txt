@@ -1,0 +1,10 @@
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 11\Lecture11Lab\Example2\bin\Debug\Example2.exe.config
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 11\Lecture11Lab\Example2\bin\Debug\Example2.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 11\Lecture11Lab\Example2\bin\Debug\Example2.pdb
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 11\Lecture11Lab\Example2\obj\Debug\Example2.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 11\Lecture11Lab\Example2\obj\Debug\Example2.Form1.resources
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 11\Lecture11Lab\Example2\obj\Debug\Example2.Properties.Resources.resources
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 11\Lecture11Lab\Example2\obj\Debug\Example2.csproj.GenerateResource.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 11\Lecture11Lab\Example2\obj\Debug\Example2.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 11\Lecture11Lab\Example2\obj\Debug\Example2.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 11\Lecture11Lab\Example2\obj\Debug\Example2.pdb

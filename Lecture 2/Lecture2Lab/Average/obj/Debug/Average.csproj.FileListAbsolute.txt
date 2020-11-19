@@ -1,0 +1,6 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\Average\bin\Debug\Average.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\Average\bin\Debug\Average.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\Average\bin\Debug\Average.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\Average\obj\Debug\Average.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\Average\obj\Debug\Average.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\Average\obj\Debug\Average.pdb

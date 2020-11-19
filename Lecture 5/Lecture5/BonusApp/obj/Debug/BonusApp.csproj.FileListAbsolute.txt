@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5\BonusApp\bin\Debug\BonusApp.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5\BonusApp\bin\Debug\BonusApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5\BonusApp\bin\Debug\BonusApp.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5\BonusApp\obj\Debug\BonusApp.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5\BonusApp\obj\Debug\BonusApp.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5\BonusApp\obj\Debug\BonusApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5\BonusApp\obj\Debug\BonusApp.pdb

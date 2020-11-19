@@ -1,0 +1,6 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\SecondsConverter\obj\Debug\SecondsConverter.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\SecondsConverter\bin\Debug\SecondsConverter.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\SecondsConverter\bin\Debug\SecondsConverter.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\SecondsConverter\bin\Debug\SecondsConverter.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\SecondsConverter\obj\Debug\SecondsConverter.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\SecondsConverter\obj\Debug\SecondsConverter.pdb

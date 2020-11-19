@@ -1,0 +1,10 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\WindowsFormApp\bin\Debug\WindowsFormApp.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\WindowsFormApp\bin\Debug\WindowsFormApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\WindowsFormApp\bin\Debug\WindowsFormApp.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\WindowsFormApp\obj\Debug\WindowsFormApp.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\WindowsFormApp\obj\Debug\WindowsFormApp.MainForm.resources
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\WindowsFormApp\obj\Debug\WindowsFormApp.Properties.Resources.resources
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\WindowsFormApp\obj\Debug\WindowsFormApp.csproj.GenerateResource.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\WindowsFormApp\obj\Debug\WindowsFormApp.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\WindowsFormApp\obj\Debug\WindowsFormApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\WindowsFormApp\obj\Debug\WindowsFormApp.pdb

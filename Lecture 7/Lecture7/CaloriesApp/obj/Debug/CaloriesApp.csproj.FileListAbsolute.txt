@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7\CaloriesApp\bin\Debug\CaloriesApp.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7\CaloriesApp\bin\Debug\CaloriesApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7\CaloriesApp\bin\Debug\CaloriesApp.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7\CaloriesApp\obj\Debug\CaloriesApp.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7\CaloriesApp\obj\Debug\CaloriesApp.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7\CaloriesApp\obj\Debug\CaloriesApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7\CaloriesApp\obj\Debug\CaloriesApp.pdb

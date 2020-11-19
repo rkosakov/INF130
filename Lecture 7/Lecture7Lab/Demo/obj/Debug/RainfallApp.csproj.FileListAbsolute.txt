@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7Lab\Demo\bin\Debug\Demo.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7Lab\Demo\bin\Debug\Demo.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7Lab\Demo\bin\Debug\Demo.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7Lab\Demo\obj\Debug\RainfallApp.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7Lab\Demo\obj\Debug\RainfallApp.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7Lab\Demo\obj\Debug\Demo.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7Lab\Demo\obj\Debug\Demo.pdb

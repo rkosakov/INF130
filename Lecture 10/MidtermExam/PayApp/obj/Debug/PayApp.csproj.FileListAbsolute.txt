@@ -1,0 +1,6 @@
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\MidtermExam\PayApp\bin\Debug\PayApp.exe.config
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\MidtermExam\PayApp\bin\Debug\PayApp.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\MidtermExam\PayApp\bin\Debug\PayApp.pdb
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\MidtermExam\PayApp\obj\Debug\PayApp.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\MidtermExam\PayApp\obj\Debug\PayApp.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\MidtermExam\PayApp\obj\Debug\PayApp.pdb

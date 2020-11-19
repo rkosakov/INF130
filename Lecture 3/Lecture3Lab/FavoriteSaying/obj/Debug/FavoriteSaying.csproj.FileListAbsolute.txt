@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\FavoriteSaying\bin\Debug\FavoriteSaying.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\FavoriteSaying\bin\Debug\FavoriteSaying.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\FavoriteSaying\bin\Debug\FavoriteSaying.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\FavoriteSaying\obj\Debug\FavoriteSaying.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\FavoriteSaying\obj\Debug\FavoriteSaying.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\FavoriteSaying\obj\Debug\FavoriteSaying.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\FavoriteSaying\obj\Debug\FavoriteSaying.pdb

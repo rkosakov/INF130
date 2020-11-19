@@ -1,0 +1,6 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\SquareInputValue\bin\Debug\SquareInputValue.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\SquareInputValue\bin\Debug\SquareInputValue.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\SquareInputValue\bin\Debug\SquareInputValue.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\SquareInputValue\obj\Debug\SquareInputValue.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\SquareInputValue\obj\Debug\SquareInputValue.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\SquareInputValue\obj\Debug\SquareInputValue.pdb

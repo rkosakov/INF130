@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\WinAppFromConsoleApp\bin\Debug\WinAppFromConsoleApp.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\WinAppFromConsoleApp\bin\Debug\WinAppFromConsoleApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\WinAppFromConsoleApp\bin\Debug\WinAppFromConsoleApp.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\WinAppFromConsoleApp\obj\Debug\WinAppFromConsoleApp.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\WinAppFromConsoleApp\obj\Debug\WinAppFromConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\WinAppFromConsoleApp\obj\Debug\WinAppFromConsoleApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\WinAppFromConsoleApp\obj\Debug\WinAppFromConsoleApp.pdb

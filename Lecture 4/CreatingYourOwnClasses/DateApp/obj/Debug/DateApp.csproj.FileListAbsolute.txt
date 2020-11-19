@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\CreatingYourOwnClasses\DateApp\bin\Debug\DateApp.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\CreatingYourOwnClasses\DateApp\bin\Debug\DateApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\CreatingYourOwnClasses\DateApp\bin\Debug\DateApp.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\CreatingYourOwnClasses\DateApp\obj\Debug\DateApp.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\CreatingYourOwnClasses\DateApp\obj\Debug\DateApp.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\CreatingYourOwnClasses\DateApp\obj\Debug\DateApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\CreatingYourOwnClasses\DateApp\obj\Debug\DateApp.pdb

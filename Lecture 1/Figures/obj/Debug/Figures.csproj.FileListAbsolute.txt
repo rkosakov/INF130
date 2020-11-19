@@ -1,0 +1,6 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Figures\bin\Debug\Figures.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Figures\bin\Debug\Figures.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Figures\bin\Debug\Figures.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Figures\obj\Debug\Figures.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Figures\obj\Debug\Figures.pdb

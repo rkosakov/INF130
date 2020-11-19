@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7Lab\SortingNamesApp\bin\Debug\SortingNamesApp.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7Lab\SortingNamesApp\bin\Debug\SortingNamesApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7Lab\SortingNamesApp\bin\Debug\SortingNamesApp.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7Lab\SortingNamesApp\obj\Debug\SortingNamesApp.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7Lab\SortingNamesApp\obj\Debug\SortingNamesApp.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7Lab\SortingNamesApp\obj\Debug\SortingNamesApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 7\Lecture7Lab\SortingNamesApp\obj\Debug\SortingNamesApp.pdb

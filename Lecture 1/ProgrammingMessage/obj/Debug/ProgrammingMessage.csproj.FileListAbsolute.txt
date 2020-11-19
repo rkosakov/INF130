@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\ProgrammingMessage\bin\Debug\ProgrammingMessage.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\ProgrammingMessage\bin\Debug\ProgrammingMessage.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\ProgrammingMessage\bin\Debug\ProgrammingMessage.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\ProgrammingMessage\obj\Debug\ProgrammingMessage.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\ProgrammingMessage\obj\Debug\ProgrammingMessage.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\ProgrammingMessage\obj\Debug\ProgrammingMessage.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\ProgrammingMessage\obj\Debug\ProgrammingMessage.pdb

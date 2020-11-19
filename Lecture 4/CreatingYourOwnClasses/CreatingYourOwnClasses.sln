@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateApp", "DateApp\DateApp.csproj", "{06AA0BAE-42D6-4687-B04B-F43D78B8B465}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfessorApp", "ProfessorApp\ProfessorApp.csproj", "{EB5633AB-BF7F-4F52-8049-9CF8F4998210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06AA0BAE-42D6-4687-B04B-F43D78B8B465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06AA0BAE-42D6-4687-B04B-F43D78B8B465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06AA0BAE-42D6-4687-B04B-F43D78B8B465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06AA0BAE-42D6-4687-B04B-F43D78B8B465}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB5633AB-BF7F-4F52-8049-9CF8F4998210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5633AB-BF7F-4F52-8049-9CF8F4998210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5633AB-BF7F-4F52-8049-9CF8F4998210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5633AB-BF7F-4F52-8049-9CF8F4998210}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C2D4BC0-1039-4D75-85C9-5D2373F36758}
+	EndGlobalSection
+EndGlobal

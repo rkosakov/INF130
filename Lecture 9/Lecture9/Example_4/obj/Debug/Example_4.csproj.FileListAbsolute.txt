@@ -1,0 +1,10 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 9\Lecture9\Example_4\bin\Debug\Example_4.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 9\Lecture9\Example_4\bin\Debug\Example_4.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 9\Lecture9\Example_4\bin\Debug\Example_4.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 9\Lecture9\Example_4\obj\Debug\Example_4.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 9\Lecture9\Example_4\obj\Debug\Example_4.Form1.resources
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 9\Lecture9\Example_4\obj\Debug\Example_4.Properties.Resources.resources
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 9\Lecture9\Example_4\obj\Debug\Example_4.csproj.GenerateResource.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 9\Lecture9\Example_4\obj\Debug\Example_4.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 9\Lecture9\Example_4\obj\Debug\Example_4.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 9\Lecture9\Example_4\obj\Debug\Example_4.pdb

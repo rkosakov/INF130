@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\MidtermExam\FahrenheitToCelsiusApp\bin\Debug\FahrenheitToCelsiusApp.exe.config
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\MidtermExam\FahrenheitToCelsiusApp\bin\Debug\FahrenheitToCelsiusApp.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\MidtermExam\FahrenheitToCelsiusApp\bin\Debug\FahrenheitToCelsiusApp.pdb
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\MidtermExam\FahrenheitToCelsiusApp\obj\Debug\FahrenheitToCelsiusApp.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\MidtermExam\FahrenheitToCelsiusApp\obj\Debug\FahrenheitToCelsiusApp.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\MidtermExam\FahrenheitToCelsiusApp\obj\Debug\FahrenheitToCelsiusApp.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\MidtermExam\FahrenheitToCelsiusApp\obj\Debug\FahrenheitToCelsiusApp.pdb

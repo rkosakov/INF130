@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\PhApp\obj\Debug\PhApp.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\PhApp\obj\Debug\PhApp.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\PhApp\bin\Debug\PhApp.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\PhApp\bin\Debug\PhApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\PhApp\bin\Debug\PhApp.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\PhApp\obj\Debug\PhApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\PhApp\obj\Debug\PhApp.pdb

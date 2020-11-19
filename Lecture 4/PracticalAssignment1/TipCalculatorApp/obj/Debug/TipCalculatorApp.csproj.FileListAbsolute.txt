@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\PracticalAssignment1\TipCalculatorApp\bin\Debug\TipCalculatorApp.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\PracticalAssignment1\TipCalculatorApp\bin\Debug\TipCalculatorApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\PracticalAssignment1\TipCalculatorApp\bin\Debug\TipCalculatorApp.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\PracticalAssignment1\TipCalculatorApp\obj\Debug\TipCalculatorApp.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\PracticalAssignment1\TipCalculatorApp\obj\Debug\TipCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\PracticalAssignment1\TipCalculatorApp\obj\Debug\TipCalculatorApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\PracticalAssignment1\TipCalculatorApp\obj\Debug\TipCalculatorApp.pdb

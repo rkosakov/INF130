@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\Discount\bin\Debug\Discount.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\Discount\bin\Debug\Discount.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\Discount\bin\Debug\Discount.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\Discount\obj\Debug\Discount.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\Discount\obj\Debug\Discount.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\Discount\obj\Debug\Discount.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\Discount\obj\Debug\Discount.csprojAssemblyReference.cache

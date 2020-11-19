@@ -1,0 +1,10 @@
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\PE4\bin\Debug\PE4.exe.config
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\PE4\bin\Debug\PE4.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\PE4\bin\Debug\PE4.pdb
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\PE4\obj\Debug\PE4.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\PE4\obj\Debug\PE4.guessingGameAppForm.resources
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\PE4\obj\Debug\PE4.Properties.Resources.resources
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\PE4\obj\Debug\PE4.csproj.GenerateResource.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\PE4\obj\Debug\PE4.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\PE4\obj\Debug\PE4.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\PE4\obj\Debug\PE4.pdb

@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\StudentApp\bin\Debug\StudentApp.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\StudentApp\bin\Debug\StudentApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\StudentApp\bin\Debug\StudentApp.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\StudentApp\obj\Debug\StudentApp.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\StudentApp\obj\Debug\StudentApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\StudentApp\obj\Debug\StudentApp.pdb

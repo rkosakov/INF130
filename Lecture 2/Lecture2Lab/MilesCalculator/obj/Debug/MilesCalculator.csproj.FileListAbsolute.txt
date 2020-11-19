@@ -1,0 +1,6 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\MilesCalculator\bin\Debug\MilesCalculator.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\MilesCalculator\bin\Debug\MilesCalculator.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\MilesCalculator\bin\Debug\MilesCalculator.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\MilesCalculator\obj\Debug\MilesCalculator.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\MilesCalculator\obj\Debug\MilesCalculator.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\MilesCalculator\obj\Debug\MilesCalculator.pdb

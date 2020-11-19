@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Demo\bin\Debug\Demo.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Demo\bin\Debug\Demo.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Demo\bin\Debug\Demo.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Demo\obj\Debug\Demo.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Demo\obj\Debug\Demo.pdb

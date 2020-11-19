@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\CalculateTakeHomePay\bin\Debug\CalculateTakeHomePay.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\CalculateTakeHomePay\bin\Debug\CalculateTakeHomePay.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\CalculateTakeHomePay\bin\Debug\CalculateTakeHomePay.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\CalculateTakeHomePay\obj\Debug\CalculateTakeHomePay.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\CalculateTakeHomePay\obj\Debug\CalculateTakeHomePay.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\CalculateTakeHomePay\obj\Debug\CalculateTakeHomePay.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\CalculateTakeHomePay\obj\Debug\CalculateTakeHomePay.pdb

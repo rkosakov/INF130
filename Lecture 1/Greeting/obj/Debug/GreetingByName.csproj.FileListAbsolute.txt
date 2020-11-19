@@ -1,0 +1,6 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Greeting\bin\Debug\Greeting.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Greeting\bin\Debug\Greeting.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Greeting\bin\Debug\Greeting.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Greeting\obj\Debug\GreetingByName.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Greeting\obj\Debug\Greeting.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Greeting\obj\Debug\Greeting.pdb

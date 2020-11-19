@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\CreatingYourOwnClasses\ProfessorApp\bin\Debug\ProfessorApp.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\CreatingYourOwnClasses\ProfessorApp\bin\Debug\ProfessorApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\CreatingYourOwnClasses\ProfessorApp\bin\Debug\ProfessorApp.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\CreatingYourOwnClasses\ProfessorApp\obj\Debug\ProfessorApp.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\CreatingYourOwnClasses\ProfessorApp\obj\Debug\ProfessorApp.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\CreatingYourOwnClasses\ProfessorApp\obj\Debug\ProfessorApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 4\CreatingYourOwnClasses\ProfessorApp\obj\Debug\ProfessorApp.pdb

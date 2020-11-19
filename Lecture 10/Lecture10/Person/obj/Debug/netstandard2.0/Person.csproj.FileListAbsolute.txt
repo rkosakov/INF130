@@ -1,0 +1,9 @@
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\Lecture10\Person\bin\Debug\netstandard2.0\Person.deps.json
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\Lecture10\Person\bin\Debug\netstandard2.0\Person.dll
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\Lecture10\Person\bin\Debug\netstandard2.0\Person.pdb
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\Lecture10\Person\obj\Debug\netstandard2.0\Person.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\Lecture10\Person\obj\Debug\netstandard2.0\Person.AssemblyInfoInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\Lecture10\Person\obj\Debug\netstandard2.0\Person.AssemblyInfo.cs
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\Lecture10\Person\obj\Debug\netstandard2.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\Lecture10\Person\obj\Debug\netstandard2.0\Person.dll
+C:\Users\rosen\OneDrive\Работен плот\INF130 Basics in C#\Lecture 10\Lecture10\Person\obj\Debug\netstandard2.0\Person.pdb

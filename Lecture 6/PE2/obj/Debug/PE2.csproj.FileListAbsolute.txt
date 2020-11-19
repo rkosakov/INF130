@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 6\PE2\bin\Debug\PE2.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 6\PE2\bin\Debug\PE2.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 6\PE2\bin\Debug\PE2.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 6\PE2\obj\Debug\PE2.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 6\PE2\obj\Debug\PE2.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 6\PE2\obj\Debug\PE2.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 6\PE2\obj\Debug\PE2.pdb

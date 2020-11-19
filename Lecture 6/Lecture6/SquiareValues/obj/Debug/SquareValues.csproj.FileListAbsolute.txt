@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 6\Lecture6\SquiareValues\bin\Debug\SquiareValues.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 6\Lecture6\SquiareValues\bin\Debug\SquiareValues.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 6\Lecture6\SquiareValues\bin\Debug\SquiareValues.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 6\Lecture6\SquiareValues\obj\Debug\SquareValues.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 6\Lecture6\SquiareValues\obj\Debug\SquareValues.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 6\Lecture6\SquiareValues\obj\Debug\SquiareValues.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 6\Lecture6\SquiareValues\obj\Debug\SquiareValues.pdb

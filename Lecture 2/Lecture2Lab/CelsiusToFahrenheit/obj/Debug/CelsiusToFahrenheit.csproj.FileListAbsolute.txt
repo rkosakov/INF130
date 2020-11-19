@@ -1,0 +1,6 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 2\Lecture2Lab\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.pdb

@@ -1,0 +1,6 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\TipCalculation\bin\Debug\TipCalculation.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\TipCalculation\bin\Debug\TipCalculation.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\TipCalculation\bin\Debug\TipCalculation.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\TipCalculation\obj\Debug\TipCalculation.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\TipCalculation\obj\Debug\TipCalculation.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\TipCalculation\obj\Debug\TipCalculation.pdb

@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\StickFigure\bin\Debug\StickFigure.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\StickFigure\bin\Debug\StickFigure.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\StickFigure\bin\Debug\StickFigure.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\StickFigure\obj\Debug\StickFigure.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\StickFigure\obj\Debug\StickFigure.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\StickFigure\obj\Debug\StickFigure.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\StickFigure\obj\Debug\StickFigure.pdb

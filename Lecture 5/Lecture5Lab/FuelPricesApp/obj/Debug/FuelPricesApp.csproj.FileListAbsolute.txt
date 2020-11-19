@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\FuelPricesApp\bin\Debug\FuelPricesApp.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\FuelPricesApp\bin\Debug\FuelPricesApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\FuelPricesApp\bin\Debug\FuelPricesApp.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\FuelPricesApp\obj\Debug\FuelPricesApp.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\FuelPricesApp\obj\Debug\FuelPricesApp.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\FuelPricesApp\obj\Debug\FuelPricesApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 5\Lecture5Lab\FuelPricesApp\obj\Debug\FuelPricesApp.pdb

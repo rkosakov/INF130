@@ -1,0 +1,6 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\Rectangle\bin\Debug\Rectangle.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\Rectangle\bin\Debug\Rectangle.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\Rectangle\bin\Debug\Rectangle.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\Rectangle\obj\Debug\Rectangle.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 3\Lecture3Lab\Rectangle\obj\Debug\Rectangle.pdb

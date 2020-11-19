@@ -1,0 +1,10 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 9\Lecture9Lab\DinnerGUI\bin\Debug\DinnerGUI.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 9\Lecture9Lab\DinnerGUI\bin\Debug\DinnerGUI.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 9\Lecture9Lab\DinnerGUI\bin\Debug\DinnerGUI.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 9\Lecture9Lab\DinnerGUI\obj\Debug\DinnerGUI.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 9\Lecture9Lab\DinnerGUI\obj\Debug\DinnerGUI.OrderGUI.resources
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 9\Lecture9Lab\DinnerGUI\obj\Debug\DinnerGUI.Properties.Resources.resources
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 9\Lecture9Lab\DinnerGUI\obj\Debug\DinnerGUI.csproj.GenerateResource.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 9\Lecture9Lab\DinnerGUI\obj\Debug\DinnerGUI.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 9\Lecture9Lab\DinnerGUI\obj\Debug\DinnerGUI.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 9\Lecture9Lab\DinnerGUI\obj\Debug\DinnerGUI.pdb

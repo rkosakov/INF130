@@ -1,0 +1,10 @@
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\TaxApp\bin\Debug\TaxApp.exe.config
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\TaxApp\bin\Debug\TaxApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\TaxApp\bin\Debug\TaxApp.pdb
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\TaxApp\obj\Debug\TaxApp.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\TaxApp\obj\Debug\TaxApp.Form1.resources
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\TaxApp\obj\Debug\TaxApp.Properties.Resources.resources
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\TaxApp\obj\Debug\TaxApp.csproj.GenerateResource.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\TaxApp\obj\Debug\TaxApp.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\TaxApp\obj\Debug\TaxApp.exe
+C:\Users\rosen\OneDrive\Работен плот\C#-AUBG\Lecture 8\Lecture8\TaxApp\obj\Debug\TaxApp.pdb
