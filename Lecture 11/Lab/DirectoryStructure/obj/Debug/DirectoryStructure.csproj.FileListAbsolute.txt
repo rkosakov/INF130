@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\DirectoryStructure\bin\Debug\DirectoryStructure.exe.config
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\DirectoryStructure\bin\Debug\DirectoryStructure.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\DirectoryStructure\bin\Debug\DirectoryStructure.pdb
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\DirectoryStructure\obj\Debug\DirectoryStructure.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\DirectoryStructure\obj\Debug\DirectoryStructure.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\DirectoryStructure\obj\Debug\DirectoryStructure.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\DirectoryStructure\obj\Debug\DirectoryStructure.pdb

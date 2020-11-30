@@ -1,0 +1,19 @@
+C:\Users\astoilov\Desktop\18042018\BinaryExample\BinaryExample\bin\Debug\BinaryExample.exe.config
+C:\Users\astoilov\Desktop\18042018\BinaryExample\BinaryExample\bin\Debug\BinaryExample.exe
+C:\Users\astoilov\Desktop\18042018\BinaryExample\BinaryExample\bin\Debug\BinaryExample.pdb
+C:\Users\astoilov\Desktop\18042018\BinaryExample\BinaryExample\obj\Debug\BinaryExample.csprojResolveAssemblyReference.cache
+C:\Users\astoilov\Desktop\18042018\BinaryExample\BinaryExample\obj\Debug\BinaryExample.Form1.resources
+C:\Users\astoilov\Desktop\18042018\BinaryExample\BinaryExample\obj\Debug\BinaryExample.Properties.Resources.resources
+C:\Users\astoilov\Desktop\18042018\BinaryExample\BinaryExample\obj\Debug\BinaryExample.csproj.GenerateResource.Cache
+C:\Users\astoilov\Desktop\18042018\BinaryExample\BinaryExample\obj\Debug\BinaryExample.exe
+C:\Users\astoilov\Desktop\18042018\BinaryExample\BinaryExample\obj\Debug\BinaryExample.pdb
+C:\Users\rosen\OneDrive\Работен плот\BinaryExample\BinaryExample\bin\Debug\BinaryExample.exe.config
+C:\Users\rosen\OneDrive\Работен плот\BinaryExample\BinaryExample\bin\Debug\BinaryExample.exe
+C:\Users\rosen\OneDrive\Работен плот\BinaryExample\BinaryExample\bin\Debug\BinaryExample.pdb
+C:\Users\rosen\OneDrive\Работен плот\BinaryExample\BinaryExample\obj\Debug\BinaryExample.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\BinaryExample\BinaryExample\obj\Debug\BinaryExample.Form1.resources
+C:\Users\rosen\OneDrive\Работен плот\BinaryExample\BinaryExample\obj\Debug\BinaryExample.Properties.Resources.resources
+C:\Users\rosen\OneDrive\Работен плот\BinaryExample\BinaryExample\obj\Debug\BinaryExample.csproj.GenerateResource.cache
+C:\Users\rosen\OneDrive\Работен плот\BinaryExample\BinaryExample\obj\Debug\BinaryExample.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\BinaryExample\BinaryExample\obj\Debug\BinaryExample.exe
+C:\Users\rosen\OneDrive\Работен плот\BinaryExample\BinaryExample\obj\Debug\BinaryExample.pdb

@@ -1,0 +1,10 @@
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\FileAccessApp\bin\Debug\FileAccessApp.exe.config
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\FileAccessApp\bin\Debug\FileAccessApp.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\FileAccessApp\bin\Debug\FileAccessApp.pdb
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\FileAccessApp\obj\Debug\FileAccessApp.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\FileAccessApp\obj\Debug\FileAccessApp.Form1.resources
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\FileAccessApp\obj\Debug\FileAccessApp.Properties.Resources.resources
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\FileAccessApp\obj\Debug\FileAccessApp.csproj.GenerateResource.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\FileAccessApp\obj\Debug\FileAccessApp.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\FileAccessApp\obj\Debug\FileAccessApp.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\FileAccessApp\obj\Debug\FileAccessApp.pdb

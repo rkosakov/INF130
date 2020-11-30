@@ -1,0 +1,10 @@
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\FileAccessDialogAppBoxes\bin\Debug\FileAccessDialogAppBoxes.exe.config
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\FileAccessDialogAppBoxes\bin\Debug\FileAccessDialogAppBoxes.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\FileAccessDialogAppBoxes\bin\Debug\FileAccessDialogAppBoxes.pdb
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\FileAccessDialogAppBoxes\obj\Debug\FileAccessDialogAppBoxes.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\FileAccessDialogAppBoxes\obj\Debug\FileAccessDialogAppBoxes.Form1.resources
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\FileAccessDialogAppBoxes\obj\Debug\FileAccessDialogAppBoxes.Properties.Resources.resources
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\FileAccessDialogAppBoxes\obj\Debug\FileAccessDialogAppBoxes.csproj.GenerateResource.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\FileAccessDialogAppBoxes\obj\Debug\FileAccessDialogAppBoxes.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\FileAccessDialogAppBoxes\obj\Debug\FileAccessDialogAppBoxes.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\FileAccessDialogAppBoxes\obj\Debug\FileAccessDialogAppBoxes.pdb

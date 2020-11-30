@@ -1,0 +1,10 @@
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 12\PE5\bin\Debug\PE5.exe.config
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 12\PE5\bin\Debug\PE5.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 12\PE5\bin\Debug\PE5.pdb
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 12\PE5\obj\Debug\PE5.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 12\PE5\obj\Debug\PE5.Form1.resources
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 12\PE5\obj\Debug\PE5.Properties.Resources.resources
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 12\PE5\obj\Debug\PE5.csproj.GenerateResource.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 12\PE5\obj\Debug\PE5.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 12\PE5\obj\Debug\PE5.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 12\PE5\obj\Debug\PE5.pdb

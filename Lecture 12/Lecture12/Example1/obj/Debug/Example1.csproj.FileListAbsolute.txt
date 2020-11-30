@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 12\Lecture12\Example1\bin\Debug\Example1.exe.config
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 12\Lecture12\Example1\bin\Debug\Example1.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 12\Lecture12\Example1\bin\Debug\Example1.pdb
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 12\Lecture12\Example1\obj\Debug\Example1.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 12\Lecture12\Example1\obj\Debug\Example1.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 12\Lecture12\Example1\obj\Debug\Example1.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 12\Lecture12\Example1\obj\Debug\Example1.pdb

@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\BinaryFileAccess\bin\Debug\BinaryFileAccess.exe.config
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\BinaryFileAccess\bin\Debug\BinaryFileAccess.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\BinaryFileAccess\bin\Debug\BinaryFileAccess.pdb
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\BinaryFileAccess\obj\Debug\BinaryFileAccess.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\BinaryFileAccess\obj\Debug\BinaryFileAccess.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\BinaryFileAccess\obj\Debug\BinaryFileAccess.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\BinaryFileAccess\obj\Debug\BinaryFileAccess.pdb

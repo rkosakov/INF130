@@ -1,0 +1,7 @@
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\BinaryExample\bin\Debug\BinaryExample.exe.config
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\BinaryExample\bin\Debug\BinaryExample.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\BinaryExample\bin\Debug\BinaryExample.pdb
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\BinaryExample\obj\Debug\BinaryExample.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\BinaryExample\obj\Debug\BinaryExample.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\BinaryExample\obj\Debug\BinaryExample.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\BinaryExample\obj\Debug\BinaryExample.pdb

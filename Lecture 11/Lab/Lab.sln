@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryStructure", "DirectoryStructure\DirectoryStructure.csproj", "{89395D16-E488-455B-9AD3-4BBF520B78AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayingsApp", "SayingsApp\SayingsApp.csproj", "{94F804DF-E879-4B38-ACFF-A0F4F8EA81CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileAccessApp", "FileAccessApp\FileAccessApp.csproj", "{064407F2-B1DE-4F2B-8329-DD5EC5448832}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryExample", "BinaryExample\BinaryExample.csproj", "{9DB4D4F5-7895-4D02-B4CF-67F12A7C3069}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryFileAccess", "BinaryFileAccess\BinaryFileAccess.csproj", "{4C470E0A-50A9-4928-9149-DF23D36F06D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileAccessDialogAppBoxes", "FileAccessDialogAppBoxes\FileAccessDialogAppBoxes.csproj", "{8A5066A8-43E3-406A-83CE-0A02A50B7E05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89395D16-E488-455B-9AD3-4BBF520B78AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89395D16-E488-455B-9AD3-4BBF520B78AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89395D16-E488-455B-9AD3-4BBF520B78AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89395D16-E488-455B-9AD3-4BBF520B78AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94F804DF-E879-4B38-ACFF-A0F4F8EA81CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F804DF-E879-4B38-ACFF-A0F4F8EA81CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F804DF-E879-4B38-ACFF-A0F4F8EA81CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F804DF-E879-4B38-ACFF-A0F4F8EA81CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{064407F2-B1DE-4F2B-8329-DD5EC5448832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{064407F2-B1DE-4F2B-8329-DD5EC5448832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{064407F2-B1DE-4F2B-8329-DD5EC5448832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{064407F2-B1DE-4F2B-8329-DD5EC5448832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DB4D4F5-7895-4D02-B4CF-67F12A7C3069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB4D4F5-7895-4D02-B4CF-67F12A7C3069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB4D4F5-7895-4D02-B4CF-67F12A7C3069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB4D4F5-7895-4D02-B4CF-67F12A7C3069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C470E0A-50A9-4928-9149-DF23D36F06D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C470E0A-50A9-4928-9149-DF23D36F06D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C470E0A-50A9-4928-9149-DF23D36F06D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C470E0A-50A9-4928-9149-DF23D36F06D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A5066A8-43E3-406A-83CE-0A02A50B7E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5066A8-43E3-406A-83CE-0A02A50B7E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5066A8-43E3-406A-83CE-0A02A50B7E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5066A8-43E3-406A-83CE-0A02A50B7E05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCD6E377-D0CA-4059-9AF5-01B3A63821B1}
+	EndGlobalSection
+EndGlobal

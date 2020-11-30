@@ -1,0 +1,10 @@
+C:\Users\rosen\source\repos\Lecture13\DBExample1\bin\Debug\DBExample1.exe.config
+C:\Users\rosen\source\repos\Lecture13\DBExample1\bin\Debug\DBExample1.exe
+C:\Users\rosen\source\repos\Lecture13\DBExample1\bin\Debug\DBExample1.pdb
+C:\Users\rosen\source\repos\Lecture13\DBExample1\obj\Debug\DBExample1.csprojAssemblyReference.cache
+C:\Users\rosen\source\repos\Lecture13\DBExample1\obj\Debug\DBExample1.MainForm.resources
+C:\Users\rosen\source\repos\Lecture13\DBExample1\obj\Debug\DBExample1.Properties.Resources.resources
+C:\Users\rosen\source\repos\Lecture13\DBExample1\obj\Debug\DBExample1.csproj.GenerateResource.cache
+C:\Users\rosen\source\repos\Lecture13\DBExample1\obj\Debug\DBExample1.csproj.CoreCompileInputs.cache
+C:\Users\rosen\source\repos\Lecture13\DBExample1\obj\Debug\DBExample1.exe
+C:\Users\rosen\source\repos\Lecture13\DBExample1\obj\Debug\DBExample1.pdb

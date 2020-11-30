@@ -1,0 +1,10 @@
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\SayingsApp\bin\Debug\SayingsApp.exe.config
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\SayingsApp\bin\Debug\SayingsApp.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\SayingsApp\bin\Debug\SayingsApp.pdb
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\SayingsApp\obj\Debug\SayingsApp.csprojAssemblyReference.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\SayingsApp\obj\Debug\SayingsApp.Form1.resources
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\SayingsApp\obj\Debug\SayingsApp.Properties.Resources.resources
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\SayingsApp\obj\Debug\SayingsApp.csproj.GenerateResource.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\SayingsApp\obj\Debug\SayingsApp.csproj.CoreCompileInputs.cache
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\SayingsApp\obj\Debug\SayingsApp.exe
+C:\Users\rosen\OneDrive\Работен плот\INF130\Lecture 11\Lab\SayingsApp\obj\Debug\SayingsApp.pdb
